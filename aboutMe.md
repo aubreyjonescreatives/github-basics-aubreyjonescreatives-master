@@ -7,7 +7,7 @@ Hello, my name is Aubrey Jones. I have a lot of fun with creative projects, love
 
 I have a few years worth of experience with JavaScript. I've mostly used it in frameworks. I find I may understand more than I realize, and just need to practice it more often. 
 
-## For front end development, I am very familiar with 
+## For front end development, I am very familiar with:  
 * HTML5
 * CSS3 
 * SCSS 

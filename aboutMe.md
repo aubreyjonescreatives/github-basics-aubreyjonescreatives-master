@@ -15,4 +15,4 @@ I have a few years worth of experience with JavaScript. I've mostly used it in f
 * Bootstrap 
 * React
 
-I would love to learn Vue and Angular. I have some experience with backend development as far as Node.JS. I want to learn more about the server side to complete my full stack experience, and have eyes on PHP. 
+I would love to learn Vue and Angular. I have some experience with backend development as far as Node.JS. I want to learn more about the server side to complete my full stack experience, and have eyes on PHP as well. 
